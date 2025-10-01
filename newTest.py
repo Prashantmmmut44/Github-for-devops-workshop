@@ -1,0 +1,1 @@
+print("Chutiya ho kya bhai !!!")
